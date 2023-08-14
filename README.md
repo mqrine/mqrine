@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mqrine
+- 👀 I’m interested in Lua,
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Lua
+- 📫 How to reach me discord @mqrinee
